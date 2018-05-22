@@ -2,7 +2,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "WCTAllCategory"
-  s.version      = "0.0.1"
+  s.version      = "1.0.0"
   s.summary      = "A short description of WCTAllCategory."
   s.description  = <<-DESC
                 WCT ALL Category Tools!
