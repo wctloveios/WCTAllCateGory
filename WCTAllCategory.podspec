@@ -13,7 +13,7 @@ Pod::Spec.new do |s|
   s.platform     = :ios, "8.0"
 
   s.source_files  = "#{s.name}/**/*.{h,m}"
-  s.source       = { :git => "https://github.com/wctloveios/WCTAllCateGory.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/wctloveios/WCTAllCateGory.git", :tag => "1.0.0" }
   s.framework  = "UIKit"
 
   # 预留
