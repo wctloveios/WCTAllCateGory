@@ -2,7 +2,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "WCTAllCategory"
-  s.version      = "1.0.0"
+  s.version      = "1.0.1"
   s.summary      = "A short description of WCTAllCategory."
   s.description  = <<-DESC
                 WCT ALL Category Tools!
@@ -13,7 +13,7 @@ Pod::Spec.new do |s|
   s.platform     = :ios, "8.0"
 
   s.source_files  = "#{s.name}/**/*.{h,m}" , "WCTAllUITool/**/*.{h,m}"
-  s.source       = { :git => "https://github.com/wctloveios/WCTAllCateGory.git", :tag => "1.0.0" }
+  s.source       = { :git => "https://github.com/wctloveios/WCTAllCateGory.git", :tag => "1.0.1" }
   s.framework  = "UIKit"
 
   # 预留
