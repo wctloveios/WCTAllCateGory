@@ -20,5 +20,3 @@ FOUNDATION_EXPORT const unsigned char WCTAllCategoryVersionString[];
 #import <WCTAllCategory/UIColor+WCTColorExtension.h>
 #import <WCTAllCategory/UIFont+WCTFontExtension.h>
 #import <WCTAllCategory/UIImage+WCTImageExtension.h>
-
-#import <WCTAllCategory/WCTSegmentedControl.h>

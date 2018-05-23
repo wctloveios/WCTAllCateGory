@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.version      = "1.0.2"
   s.summary      = "A short description of WCTAllCategory."
   s.description  = <<-DESC
-                WCT ALL Category Tools!
+                WCT ALL Category!
                    DESC
   s.homepage     = "https://github.com/wctloveios/WCTAllCateGory"
   s.license      = "MIT"
